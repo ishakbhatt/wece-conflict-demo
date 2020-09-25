@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-		  cout << "Hello world of merge conflicts!" << endl;
+		  cout << "Hello world!" << endl;
 			return 0;
 }
